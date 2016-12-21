@@ -1,0 +1,5 @@
+name = My messages ul views module
+description = Display Nodes with Ajax.
+package = Message Board
+core = 7.x
+files[] = msgview.module

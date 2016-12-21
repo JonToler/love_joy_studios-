@@ -1,0 +1,23 @@
+head {
+  background-image: url(../images/lovejoylanding.jpg);
+  background-repeat: no-repeat;
+}
+
+h1#page-title{
+  color: white;
+}
+
+h2 {
+  font-family: 'Cutive Mono', monospace;
+  color: red;
+  border-radius: 20px;
+
+}
+
+label {
+  color: white;
+}
+
+pre {
+  color: green;
+}
