@@ -2,4 +2,5 @@ name = Jon's custom theme
 core = 7.x
 engine = phptemplate
 stylesheets[all][] = css/style.css
+stylesheets[all][] = css/animate.min.css
 scripts[] = js/scripts.js

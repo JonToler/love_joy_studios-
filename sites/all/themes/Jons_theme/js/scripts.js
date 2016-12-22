@@ -1,14 +1,10 @@
-jQuery(document).ready(function($) {
-  $('#navigation h2').click(function(){
-    alert('I am an h2!');
-  });
-});
+
 (function ($, Drupal, window, document) {
 
     'use strict';
 
     // To understand behaviors, see https://drupal.org/node/756722#behaviors
-    Drupal.behaviors.my_custom_behavior = {
+    Drupal.behaviors.mybehavior = {
         attach: function (context, settings) {
             $(document).ready(function() {
                 $('#header h2').addClass('animated pulse');

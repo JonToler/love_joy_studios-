@@ -48,7 +48,7 @@
 
 <head profile="<?php print $grddl_profile; ?>">
 
-<link href="https://fonts.googleapis.com/css?family=Cutive+Mono" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Fira+Mono|Fjord+One|Slabo" rel="stylesheet"> 
 
   <?php print $head; ?>
   <title><?php print $head_title; ?></title>
