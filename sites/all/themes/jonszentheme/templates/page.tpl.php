@@ -48,8 +48,6 @@
 
     <?php print render($page['header']); ?>
 
-    <?php print render($page[myregion]); ?>
-
   </header>
 
   <div class="layout-3col layout-swap">

@@ -51,6 +51,8 @@ stylesheets[all][] = system.messages.css
 stylesheets[all][] = system.theme.css
 stylesheets[all][] = comment.css
 stylesheets[all][] = node.css
+stylesheets[all][] = css/style.css
+stylesheets[all][] = css/animate.min.css
 
 ; Then we add our own stylesheet.
 stylesheets[all][] = css/styles.css
