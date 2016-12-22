@@ -1,0 +1,5 @@
+name = Digi content ul views module
+description = Displays Nodes with Ajax.
+package = Message Board
+core = 7.x
+files[] = digiview.module
